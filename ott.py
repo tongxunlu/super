@@ -134,7 +134,7 @@ def get_mytvsuper(channel):
     return m3u_content
 
 # 创建或打开文件用于写入
-with open('mytvfree.m3u', 'w', encoding='utf-8') as m3u_file:
+with open('mytvsuper.m3u', 'w', encoding='utf-8') as m3u_file:
     # 写入 M3U 文件的头部
    # m3u_file.write("#EXTM3U url-tvg=\"http://wztz.wofuck.us.kg/https://xmltv.bph.workers.dev\"\n")
     m3u_file.write("#EXTM3U url-tvg=\"https://cfpgwztz.wofuck.rr.nu/wztz/http/xmltv.bph.workers.dev\"\n")
@@ -144,4 +144,4 @@ with open('mytvfree.m3u', 'w', encoding='utf-8') as m3u_file:
         m3u_content = get_mytvsuper(channel_code)
         m3u_file.write(m3u_content)
 
-print("所有频道的 M3U 播放列表已生成并保存为 'mytvfree.m3u'。")
+print("所有频道的 M3U 播放列表已生成并保存为 'mytvsuper.m3u'。")
