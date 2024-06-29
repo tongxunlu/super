@@ -10,11 +10,16 @@ on:
     #东八区每6小时执行
     #- cron: '0 2,8,14,20 * * *'
     #东八区每天5点(utc每天21点)执行
-    - cron: '0 21 * * *'
+    #- cron: '0 21 * * *'
+    - cron: '0 16 * * *'
     
     
    workflow_dispatch:
- 
+
+env:
+  #设置为东八区
+  TZ: Asia/Shanghai
+  
 jobs:
   build:
     runs-on: ubuntu-latest
