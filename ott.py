@@ -183,7 +183,9 @@ with open('mytvsuper.m3u', 'w', encoding='utf-8') as m3u_file:
     catchup_source = "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
     #m3u_file.write('#EXTM3U url-tvg=\"{url_tvg}\" catchup="{catchup}" catchup-source="{catchup_source}"\n')
-    m3u_file.write(f'#EXTM3U url-tvg=\"http://epg.51zmt.top:8000/e.xml\" catchup=\"{catchup}\" catchup-source=\"{catchup_source}\"\n')
+    #m3u_file.write("#EXTM3U url-tvg=\"https://cfpgwztz.wofuck.rr.nu/wztz/http/xmltv.bph.workers.dev\"\n")
+    #m3u_file.write(f'#EXTM3U url-tvg=\"http://epg.51zmt.top:8000/e.xml\" catchup=\"{catchup}\" catchup-source=\"{catchup_source}\"\n')
+    m3u_file.write(f'#EXTM3U url-tvg=\"https://cfpgwztz.wofuck.rr.nu/wztz/http/xmltv.bph.workers.dev\" catchup=\"{catchup}\" catchup-source=\"{catchup_source}\"\n')
     # 遍历所有频道并写入每个频道的 M3U 内容
     for channel_code in CHANNEL_LIST.keys():
         m3u_content = get_mytvsuper(channel_code)
