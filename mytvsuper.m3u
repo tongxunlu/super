@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://cfpgwztz.wofuck.rr.nu/wztz/http/xmltv.bph.workers.dev"
+#EXTM3U url-tvg="https://cfpgwztz.wofuck.rr.nu/wztz/http/xmltv.bph.workers.dev" catchup-time="10800"
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png",翡翠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
