@@ -84,6 +84,12 @@ CHANNEL_LIST = {
         'nameTC': '創世電視',
         'license': 'adef00c5ba927d01642b1e6f3cedc9fb:b45d912fec43b5bbd418ea7ea1fbcb60',
         'logo': 'https://xiaotan.860775.xyz/%E5%89%B5%E4%B8%96%E9%9B%BB%E8%A6%96.png'
+    },
+    'CRE': {
+        'name': '奧運新聞台',
+        'nameTC': '奧運新聞台',
+        'license': '68f99a5e1cc393fb79ed98a2a955cb2b:9fcc81e5f0a1021867d93038b9149c6b',
+        'logo': 'https://xiaotan.860775.xyz/%E5%89%B5%E4%B8%96%E9%9B%BB%E8%A6%96.png'
     }
         
 }
