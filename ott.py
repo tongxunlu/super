@@ -85,11 +85,20 @@ CHANNEL_LIST = {
         'license': 'adef00c5ba927d01642b1e6f3cedc9fb:b45d912fec43b5bbd418ea7ea1fbcb60',
         'logo': 'https://xiaotan.860775.xyz/%E5%89%B5%E4%B8%96%E9%9B%BB%E8%A6%96.png'
     },
-    'CRE': {
+    'ONC': {
         'name': '奧運新聞台',
-        'nameTC': '奧運新聞台',
         'license': '68f99a5e1cc393fb79ed98a2a955cb2b:9fcc81e5f0a1021867d93038b9149c6b',
-        'logo': 'https://xiaotan.860775.xyz/%E5%89%B5%E4%B8%96%E9%9B%BB%E8%A6%96.png'
+        'logo': 'https://assets.livednow.com/logo/myTV-SUPER-Olympics-News.png'
+    },
+    'OL01': {
+        'name': '奧運801台',
+        'license': '024f2733fb9afad23490149c601ce47c:034db34d56263c79c7f41448f2a6cfc1',
+        'logo': 'https://assets.livednow.com/logo/myTV-SUPER-Olympics-1.png'
+    },
+    'OL02': {
+        'name': '奧運802台',
+        'license': '69a81a757b16a3d431d4365d81f07f07:292f2fdc2002e8346cd2c18af4a3a4bc',
+        'logo': 'https://assets.livednow.com/logo/myTV-SUPER-Olympics-2.png'
     }
         
 }
