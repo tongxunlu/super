@@ -110,8 +110,8 @@ CHANNEL_LIST = {
 def get_mytvsuper(channel):
     if channel not in CHANNEL_LIST:
         return '频道代号错误'
-
-    api_token = os.getenv('MYTVSUPER_API_TOKEN_MY')  # Replace with your actual API token
+        
+    api_token = os.getenv('MYTVSUPER_API_TOKEN_MY')
     api_token2 = os.getenv('MYTVSUPER_API_TOKEN_VIP')
     
     headers = {
