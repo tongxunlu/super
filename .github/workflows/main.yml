@@ -24,6 +24,7 @@ env:
 jobs:
   build:
     runs-on: ubuntu-latest
+    if: ${{ env.RUN_JOB == 'true' }}
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
