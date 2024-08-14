@@ -1,0 +1,57 @@
+name: 更新1
+on:
+  # push:
+   schedule:
+    #- cron: '0 */6 * * *'
+     # 每小时的0, 20, 40分钟
+    #- cron: '0,10,20,30,40,50 * * * *'
+    #东八区每小时执行
+    #- cron: '40 * * * *'
+    #东八区每6小时执行
+    #- cron: '0 2,8,14,20 * * *'
+    #东八区每天5点(utc每天21点)执行
+    #- cron: '0 21 * * *'
+    #东八区每天3点(utc每天19点)执行
+    - cron: '0 19 * * *'
+    
+    
+   workflow_dispatch:
+
+env:
+  #设置为东八区
+  TZ: Asia/Shanghai
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Delete workflow runs
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ github.token }}
+          repository: ${{ github.repository }}
+          retain_days: 2
+          keep_minimum_runs: 6 
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+      - name: Install dependencies
+        run: pip install opencv-python requests 
+      - name: Run gengxinsichuanip
+        run: python ${{ github.workspace }}/ott.py
+
+     
+      - name: Commit results
+        run: |
+            git config --local user.email "actions@github.com"
+            git config --local user.name "GitHub Action"
+            if [ -n "$(git status --porcelain)" ]; then
+            git add *.m3u
+            git commit -m "Automatic update"
+            git push
+            else
+              echo "No changes detected, skipping commit."
+            fi
