@@ -1,4 +1,4 @@
-name: 更新1
+name: 更新2
 on:
   # push:
    schedule:
@@ -41,7 +41,7 @@ jobs:
       - name: Install dependencies
         run: pip install opencv-python requests 
       - name: Run gengxinsichuanip
-        run: python ${{ github.workspace }}/ott.py
+        run: python ${{ github.workspace }}/ott2.py
 
      
       - name: Commit results
