@@ -55,7 +55,7 @@ jobs:
             git commit -m "Automatic update"
             git push
             echo  'test var-2024-08-16'
-            echo  ${{ variables.MYTVSUPER_API_TOKEN_VIP }}
+            echo  ${{ vars.MYTVSUPER_API_TOKEN_VIP }}
             else
               echo "No changes detected, skipping commit."
             fi
