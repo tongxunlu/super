@@ -3,59 +3,54 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "4NU+t3GLkJsHdGZs1tgLVQ", "kid": "tLKbauj/O32OpLCOD/ezdw"}], "type": "temporary"}
-https://ewcdn104.nowe.com/session/10-02b6fe6ceabd373b4d75e7ad578bb/Content/DASH_VOS3/Live/channel(VOS_CH331)/manifest.mpd?token=40fe6cc42a8617d7d33b85fd3e413f72_1743165886
+https://ewcdn16.nowe.com/session/10-3d0420ab0616fa308560fdfd7247e/Content/DASH_VOS3/Live/channel(VOS_CH331)/manifest.mpd?token=7cc506597ffc6f878dd56eacbcfcacb8_1743167705
 #EXTINF:-1 tvg-id="ViuTV99" tvg-name="ViuTV99" tvg-logo="https://assets.livednow.com/logo/ViuTV.png",ViuTV99
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "oB19xO31gklrfnPWfp5omQ", "kid": "kbp1KkRhSMaEANeDdLF4tA"}], "type": "temporary"}
-https://pccw-live-cdn-viutv.akamaized.net/Content/DASH_VOS3/Live/channel(VOS_CH099)/manifest.mpd?hdnts=ip=112.120.48.185~st=1743147887~exp=1743165887~acl=/Content/DASH_VOS3/Live/channel(VOS_CH099)/*~hmac=2739e855ea729e7ca658fbf3b10f332cb01b8e80150ec03510735e6b16f5fd04&cookieless=true
-#EXTINF:-1 tvg-id="ViuTV96" tvg-name="ViuTV96" tvg-logo="https://assets.livednow.com/logo/ViuTV-Six.png",ViuTV96
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "oB19xO31gklrfnPWfp5omQ", "kid": "kbp1KkRhSMaEANeDdLF4tA"}], "type": "temporary"}
-https://pccw-live-cdn-viutv.akamaized.net/Content/DASH_VOS3/Live/channel(VOS_CH096)/manifest.mpd?hdnts=ip=112.120.48.185~st=1743147889~exp=1743165889~acl=/Content/DASH_VOS3/Live/channel(VOS_CH096)/*~hmac=41d4f0bf980a6270e5aa1d360f2fa4e28e2759411f300a9ead2903d22ab786e0&cookieless=true
+https://ewcdn15.nowe.com/session/15-4938ffe40a09040f957f5da80853d/Content/DASH_VOS3/Live/channel(VOS_CH099)/manifest.mpd?token=4ab59c282f660c373706b7491e327648_1743167706
 #EXTINF:-1 tvg-id="Now新闻" tvg-name="Now新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW新闻.png",Now新闻
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "GFMLVADqkjyO29uwuhLjEA", "kid": "1FUHo0YUPgi7NgD9lcXs2g"}], "type": "temporary"}
-https://ewcdn15.nowe.com/session/10-8d2ffc7403fdc9a5f3080116089c4/Content/DASH_VOS3/Live/channel(VOS_CH332)/manifest.mpd?token=6493438ef3e513205d6d2da0a36553c9_1743165890
+https://ewcdn15.nowe.com/session/10-bfd41a2e6d75ee3f7fc920750baee/Content/DASH_VOS3/Live/channel(VOS_CH332)/manifest.mpd?token=8dee1000d99150e88a9ba9fffb42813a_1743167707
 #EXTINF:-1 tvg-id="NOW Sports Prime" tvg-name="NOW Sports Prime" tvg-logo="https://assets.livednow.com/logo/翡翠台.png",NOW Sports Prime
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "WADNJWHsG7+WTqNXVDCh4Q", "kid": "2fpfMrGYOGiqE+efsqcIOQ"}], "type": "temporary"}
-https://ewcdn16.nowe.com/session/10-1aeb03fad7030401bc180018d95ef/Content/DASH_VOS3/Live/channel(VOS_CH630)/manifest.mpd?token=d6304a66020217328c50eec71f63fc2d_1743165891
+https://ewcdn102.nowe.com/session/10-8cce90c3a811f1a75503c9b9c9a78/Content/DASH_VOS3/Live/channel(VOS_CH630)/manifest.mpd?token=b7678a528f1ac1c03d0fa16d308ef699_1743167708
 #EXTINF:-1 tvg-id="328台" tvg-name="328台" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_us/color/ch328_300_216",328台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "EkOHsTUMUMawJlkydRb1Ew", "kid": "y6TmMBH5PCykofsTZeE0xw"}], "type": "temporary"}
-https://ewcdn102.nowe.com/session/15-7bd9b866128ab2aab57c20ffb6cb3/Content/DASH_VOS3/Live/channel(VOS_CH328)/manifest.mpd?token=87a690d42816c97272e0216803b54753_1743165892
+https://ewcdn104.nowe.com/session/15-6c3b4064cb9da703985f8358f5351/Content/DASH_VOS3/Live/channel(VOS_CH328)/manifest.mpd?token=d45ef696502d278eb22083cad4094869_1743167709
 #EXTINF:-1 tvg-id="329台" tvg-name="329台" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_us/color/ch329_300_216",329台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "V79AQGVtE5P27PMbfVKsQQ", "kid": "2L7mVoR1N76ZFoyXbOVJyQ"}], "type": "temporary"}
-https://ewcdn16.nowe.com/session/15-a60754c0a7209a814bde49e024fd4/Content/DASH_VOS3/Live/channel(VOS_CH329)/manifest.mpd?token=13156bac540e184709175e6fc6164799_1743165894
+https://ewcdn104.nowe.com/session/15-ab1bb8d9c7376bb745d020a6dc6d1/Content/DASH_VOS3/Live/channel(VOS_CH329)/manifest.mpd?token=2b6c478bc37148a0892277c6d6c82bea_1743167710
 #EXTINF:-1 tvg-id="凤凰资讯台" tvg-name="凤凰资讯台" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_us/color/ch366_300_216",凤凰资讯台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "UnKLUSeOj2mx27GhYT1Dpg", "kid": "1MyAeZ1PM0aTrlvr404zTA"}], "type": "temporary"}
-https://ewcdn102.nowe.com/session/15-99ae04ba3eac968a142d4d40d9e8a/Content/DASH_VOS3/Live/channel(VOS_CH366)/manifest.mpd?token=51ce3642a37371653fdb0f17e5072f69_1743165895
+https://ewcdn104.nowe.com/session/15-9df77743f6cdab33a85d00e138de2/Content/DASH_VOS3/Live/channel(VOS_CH366)/manifest.mpd?token=711bb3dd1f2965b4a54ee7d6ea0ba856_1743167711
 #EXTINF:-1 tvg-id="凤凰香港台" tvg-name="凤凰香港台" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_us/color/ch367_300_216",凤凰香港台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "WLyYR+DhO9Mv57NtQVZnhg", "kid": "tVWV1UHdMvOQIrC7nPl4LQ"}], "type": "temporary"}
-https://ewcdn15.nowe.com/session/15-ac1a875bdf6a4ec217ee03a56c379/Content/DASH_VOS3/Live/channel(VOS_CH367)/manifest.mpd?token=fa8148aa654616f49d49459bf241577a_1743165896
+https://ewcdn03.nowe.com/session/15-5cef97f1f229025141bd636664c18/Content/DASH_VOS3/Live/channel(VOS_CH367)/manifest.mpd?token=369bc905973efe69ce79dd371792cd3c_1743167712
 #EXTINF:-1 tvg-id="凤凰卫视" tvg-name="凤凰卫视" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_us/color/ch548_300_216",凤凰卫视
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "zxxBAEI20GrA3dhdonIpiA", "kid": "s7yIijacOcyAMf5RmAGS6A"}], "type": "temporary"}
-https://ewcdn101.nowe.com/session/15-3e8a858c3cc76fa1754e31517c0e6/Content/DASH_VOS3/Live/channel(VOS_CH548)/manifest.mpd?token=b8afb8b95fe3610d7bc1fb71f5274f1a_1743165897
+https://ewcdn103.nowe.com/session/15-e4ab29d47096dcc7970493a3e746f/Content/DASH_VOS3/Live/channel(VOS_CH548)/manifest.mpd?token=86a9078d1c9d92f8f171ecae3a59856a_1743167713
 #EXTINF:-1 tvg-id="东森亚洲新闻" tvg-name="东森亚洲新闻" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_us/color/ch371_300_216",东森亚洲新闻
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "3D4e0SkEjLN/cicdUabkDg", "kid": "OR2esIcgMGebi/iWADnhug"}], "type": "temporary"}
-https://ewcdn103.nowe.com/session/15-1e27a6dcaac153f552796ee067cec/Content/DASH_VOS3/Live/channel(VOS_CH371)/manifest.mpd?token=9c50845ed78b2005bf809986a95314a8_1743165898
+https://ewcdn104.nowe.com/session/15-51cee5dfdc92d2d2b078757909bc0/Content/DASH_VOS3/Live/channel(VOS_CH371)/manifest.mpd?token=6899c866bcb7b52fe0f50331a9b4d0de_1743167714
 #EXTINF:-1 tvg-id="中天亚洲" tvg-name="中天亚洲" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_us/color/ch538_300_216",中天亚洲
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "tAwVBm3kXIKfXuZGFxC/sg", "kid": "ku87u15BMXKh2RZctiPkLg"}], "type": "temporary"}
-https://ewcdn102.nowe.com/session/15-39eac6fb98f116177cabffaca79b1/Content/DASH_VOS3/Live/channel(VOS_CH538)/manifest.mpd?token=85291280b4211f131f4fd713e3e61fc0_1743165899
+https://ewcdn16.nowe.com/session/15-d71d3e19b9b5e637b5d12c93d73b7/Content/DASH_VOS3/Live/channel(VOS_CH538)/manifest.mpd?token=bbc91eb16cd69d986884cf78d3a1c9e9_1743167715
