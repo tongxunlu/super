@@ -528,7 +528,7 @@ def get_mytvsuper(channel):
     response = requests.get(url, headers=headers, params=params)
 
     if response.status_code != 200:
-        print(f"请求失败:{CHANNEL_LIST[channel]['nameTC']}")
+        print(f"请求失败:{CHANNEL_LIST[channel]['name']}")
         return ''#请求失败
 
     response_json = response.json()
@@ -558,7 +558,7 @@ def get_mytvsuper(channel):
     license_data = encode_keys(license_key)  
     print(f"hexTOBase64：{license_data}")
 
-    channel_name = CHANNEL_LIST[channel]['nameTC']
+    channel_name = CHANNEL_LIST[channel]['nameTC'] or CHANNEL_LIST[channel]['name']
     channel_logo = CHANNEL_LIST[channel]['logo']
     m3u_content = f"#EXTINF:-1 tvg-id=\"{channel_name}\" tvg-name=\"{channel_name}\" tvg-logo=\"{channel_logo}\",{channel_name}\n"
     m3u_content += "#KODIPROP:inputstream.adaptive.manifest_type=mpd\n"
