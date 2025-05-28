@@ -457,6 +457,12 @@ CHANNEL_LIST = {
         'license': 'e069fc056280e4caa7d0ffb99024c05a:d3693103f232f28b4781bbc7e499c43a',
         'logo': 'https://xiaotan.860775.xyz/mytvsuper.png'
     },
+    'EVT7': {
+        'name': 'myTV SUPER直播足球7台',
+        'nameTC': 'myTV SUPER直播足球7台',
+        'license': '69a81a757b16a3d431d4365d81f07f07:292f2fdc2002e8346cd2c18af4a3a4bc',
+        'logo': 'https://xiaotan.860775.xyz/mytvsuper.png'
+    },
     'C28': {
         'name': '28AI智慧賽馬',
         'nameTC': '28AI智慧賽馬',
