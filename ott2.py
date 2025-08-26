@@ -506,11 +506,12 @@ def get_mytvsuper(channel):
         return '频道代号错误'
         
     api_token = os.getenv('MYTVSUPER_API_TOKEN_MY')
+    # 捡来的过期
     api_token2 = os.getenv('MYTVSUPER_API_TOKEN_VIP')
     
     headers = {
         'Accept': 'application/json',
-        'Authorization': 'Bearer ' + api_token2,
+        'Authorization': 'Bearer ' + api_token,
         'Accept-Language': 'zh-CN,zh-Hans;q=0.9',
         'Host': 'user-api.mytvsuper.com',
         'Origin': 'https://www.mytvsuper.com',
@@ -612,3 +613,4 @@ with open('mytvsuper.m3u', 'w', encoding='utf-8') as m3u_file:
 
 
 print("所有频道的 M3U 播放列表已生成并保存为 'mytvsuper.m3u'。")
+
