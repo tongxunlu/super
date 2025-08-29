@@ -3,6 +3,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "UD9R9mInjkVHCQYkukQoxg", "kid": "vhM63WRtMO+qq1ef9Wyl/Q"}], "type": "temporary"}
-https://ewcdn03.nowe.com/session/15-5-4631-2025032764246800000000/Content/DASH_VOS3/Live/channel(VOS_CH630)/manifest.mpd?token=8c5bc2dce512f3b323de41efe8f7b12f_1756472264
+https://ewcdn15.nowe.com/session/15-5-da7e-2025032764246800000000/Content/DASH_VOS3/Live/channel(VOS_CH630)/manifest.mpd?token=383e8ef233b8f6c850819739d154ce5d_1756489745
+
 
 
