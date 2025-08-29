@@ -19,6 +19,17 @@ https://ewcdn16.nowe.com/session/15-5-16e2-2025032764246800000000/Content/DASH_V
 
 
 
+#EXTINF:-1 tvg-id="凤凰卫视 548" tvg-name="凤凰卫视" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_us/color/ch548_300_216",凤凰卫视 548
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=80513e9f32ef34a7b301df5957cd93e7:b13a64962c442de67c59bdb1b47cb01d
+https://ewcdn16.nowe.com/session/15-5-b429-2025032764246800000000/Content/DASH_VOS3/Live/channel(VOS_CH548)/manifest.mpd?token=f821a1ee38228c3a4b0fe7f7c4259fc3_1756491694
+
+
+
+
+
+
 
 
 
