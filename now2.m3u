@@ -3,19 +3,19 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "UD9R9mInjkVHCQYkukQoxg", "kid": "vhM63WRtMO+qq1ef9Wyl/Q"}], "type": "temporary"}
-https://ewcdn15.nowe.com/session/15-5-da7e-2025032764246800000000/Content/DASH_VOS3/Live/channel(VOS_CH630)/manifest.mpd?token=383e8ef233b8f6c850819739d154ce5d_1756489745
+https://ewcdn04.nowe.com/session/15-5-7c76-2025032764246800000000/Content/DASH_VOS3/Live/channel(VOS_CH630)/manifest.mpd?token=ca8556859a03f1c9fdd30285acb22a17_1756494225
 
 #EXTINF:-1 tvg-id="now 332" tvg-name="now 332" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_us/color/ch332_300_216",now 332
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "8Ij1zAEhToc8X23AHBNAIg", "kid": "TnBqmqkmMmihOtEK5r9B7w"}], "type": "temporary"}
-https://ewcdn16.nowe.com/session/15-5-f6ed-2025032764246800000000/Content/DASH_VOS3/Live/channel(VOS_CH332)/manifest.mpd?token=8787a68ef280d7c5148e434ee3511ab1_1756491163
+https://ewcdn104.nowe.com/session/15-5-caaa-2025032764246800000000/Content/DASH_VOS3/Live/channel(VOS_CH332)/manifest.mpd?token=ff1664fe3e6aab452806c10b0cac6b40_1756494318
 
 #EXTINF:-1 tvg-id="now 333" tvg-name="now prime 333" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_us/color/ch333_300_216",now 333
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Du8/v7AzJ5UwwW3LtI3tgA", "kid": "bATtW3PdORK6xOTTviT4Hg"}], "type": "temporary"}
-https://ewcdn16.nowe.com/session/15-5-16e2-2025032764246800000000/Content/DASH_VOS3/Live/channel(VOS_CH333)/manifest.mpd?token=122708eee663ad163ef9014823b0c960_1756489779
+https://ewcdn16.nowe.com/session/15-5-33d3-2025032764246800000000/Content/DASH_VOS3/Live/channel(VOS_CH333)/manifest.mpd?token=575b7a70c8332aff976866b27385de9d_1756494294
 
 
 
@@ -23,7 +23,8 @@ https://ewcdn16.nowe.com/session/15-5-16e2-2025032764246800000000/Content/DASH_V
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=80513e9f32ef34a7b301df5957cd93e7:b13a64962c442de67c59bdb1b47cb01d
-https://ewcdn16.nowe.com/session/15-5-b429-2025032764246800000000/Content/DASH_VOS3/Live/channel(VOS_CH548)/manifest.mpd?token=f821a1ee38228c3a4b0fe7f7c4259fc3_1756491694
+https://ewcdn15.nowe.com/session/15-5-b555-2025032764246800000000/Content/DASH_VOS3/Live/channel(VOS_CH548)/manifest.mpd?token=99dd765c776fa5faf798a38e41f79e69_1756494268
+
 
 
 
