@@ -21,8 +21,8 @@ env:
   #设置为东八区
   TZ: Asia/Shanghai
   MYTVSUPER_API_TOKEN_VIP: ${{ secrets.MYTVSUPER_API_TOKEN_VIP }}
-  MYTVSUPER_API_TOKEN_MY2: ${{ secrets.FREETOKEN2 }}
-  MYTVSUPER_API_TOKEN_MY: ${{ secrets.MYTVSUPER_API_TOKEN_MY }}
+  MYTVSUPER_API_TOKEN_MY: ${{ secrets.FREETOKEN }}
+  MYTVSUPER_API_TOKEN_MY_fuck: ${{ secrets.MYTVSUPER_API_TOKEN_MY }}
   
 jobs:
   build:
